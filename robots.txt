@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://goofish-shop.github.io/jekyll-al-folio/sitemap.xml
