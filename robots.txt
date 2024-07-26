@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://goofish-shop.github.io/jekyll-al-folio/sitemap.xml
+Sitemap: https://netlab-luowang.github.io/netlab-website/sitemap.xml
